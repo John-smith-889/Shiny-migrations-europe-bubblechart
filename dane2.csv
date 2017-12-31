@@ -1,0 +1,330 @@
+Country;Region;Year;Population;Migrant.Stock;Refugee.Stock
+Belarus;Eastern Europe;1990;10217;1248977;0
+Bulgaria;Eastern Europe;1990;8841;21510;0
+Czechia;Eastern Europe;1990;10341;110394;0
+Hungary;Eastern Europe;1990;10378;347510;36062
+Poland;Eastern Europe;1990;37955;1127771;0
+Republic of Moldova;Eastern Europe;1990;4364;544162;0
+Romania;Eastern Europe;1990;23489;135825;0
+Russian Federation;Eastern Europe;1990;147564;11524948;0
+Slovakia;Eastern Europe;1990;5288;41295;0
+Ukraine;Eastern Europe;1990;51464;6892920;0
+Channel Islands;Northern Europe;1990;141;61660;0
+Denmark;Northern Europe;1990;5141;235189;31827
+Estonia;Northern Europe;1990;1565;381997;0
+Faeroe Islands;Northern Europe;1990;48;4285;0
+Finland;Northern Europe;1990;4996;63255;2174
+Iceland;Northern Europe;1990;255;9584;43
+Ireland;Northern Europe;1990;3569;227961;390
+Isle of Man;Northern Europe;1990;68;34769;0
+Latvia;Northern Europe;1990;2664;646007;0
+Lithuania;Northern Europe;1990;3696;349258;0
+Norway;Northern Europe;1990;4247;192587;19581
+Sweden;Northern Europe;1990;8567;788767;124723
+United Kingdom;Northern Europe;1990;57183;3650286;43395
+Albania;Southern Europe;1990;3281;66013;3000
+Andorra;Southern Europe;1990;55;38904;0
+Bosnia and Herzegovina;Southern Europe;1990;4463;56000;0
+Croatia;Southern Europe;1990;4776;475438;0
+Gibraltar;Southern Europe;1990;29;8709;0
+Greece;Southern Europe;1990;10249;618139;7989
+Holy See;Southern Europe;1990;1;768;0
+Italy;Southern Europe;1990;57127;1428221;12379
+Malta;Southern Europe;1990;364;15077;0
+Portugal;Southern Europe;1990;9953;435782;867
+San Marino;Southern Europe;1990;24;3310;0
+Serbia;Southern Europe;1990;9518;99269;938
+Slovenia;Southern Europe;1990;2006;178077;0
+Spain;Southern Europe;1990;39306;821605;8303
+TFYR Macedonia;Southern Europe;1990;1996;95142;0
+Austria;Western Europe;1990;7724;793239;37172
+Belgium;Western Europe;1990;10007;904528;25721
+France;Western Europe;1990;56961;5897267;186629
+Germany;Western Europe;1990;79118;5936181;722250
+Liechtenstein;Western Europe;1990;29;10906;0
+Luxembourg;Western Europe;1990;382;113795;344
+Monaco;Western Europe;1990;29;20359;0
+Netherlands;Western Europe;1990;14965;1182263;17154
+Switzerland;Western Europe;1990;6675;1392282;40943
+Belarus;Eastern Europe;1995;10142;1186282;180
+Bulgaria;Eastern Europe;1995;8379;32435;1320
+Czechia;Eastern Europe;1995;10358;165592;2655
+Hungary;Eastern Europe;1995;10350;322234;11934
+Poland;Eastern Europe;1995;38453;964725;600
+Republic of Moldova;Eastern Europe;1995;4339;367231;0
+Romania;Eastern Europe;1995;22965;135037;194
+Russian Federation;Eastern Europe;1995;148289;11928927;0
+Slovakia;Eastern Europe;1995;5375;69323;746
+Ukraine;Eastern Europe;1995;50906;6172338;5193
+Channel Islands;Northern Europe;1995;144;60519;0
+Denmark;Northern Europe;1995;5233;303108;50924
+Estonia;Northern Europe;1995;1433;315755;1
+Faeroe Islands;Northern Europe;1995;46;2900;0
+Finland;Northern Europe;1995;5119;99729;7624
+Iceland;Northern Europe;1995;268;12738;146
+Ireland;Northern Europe;1995;3652;226892;400
+Isle of Man;Northern Europe;1995;70;36886;0
+Latvia;Northern Europe;1995;2508;538093;4
+Lithuania;Northern Europe;1995;3627;273587;0
+Norway;Northern Europe;1995;4367;233302;47607
+Sweden;Northern Europe;1995;8836;936022;199212
+United Kingdom;Northern Europe;1995;57978;4155293;90909
+Albania;Southern Europe;1995;3107;71354;4720
+Andorra;Southern Europe;1995;64;40525;0
+Bosnia and Herzegovina;Southern Europe;1995;3844;69476;0
+Croatia;Southern Europe;1995;4617;674085;198647
+Gibraltar;Southern Europe;1995;30;8381;0
+Greece;Southern Europe;1995;10789;857850;4428
+Holy See;Southern Europe;1995;1;780;0
+Italy;Southern Europe;1995;57255;1774953;9408
+Malta;Southern Europe;1995;380;17740;416
+Portugal;Southern Europe;1995;10150;532822;248
+San Marino;Southern Europe;1995;26;3659;0
+Serbia;Southern Europe;1995;9884;630221;409941
+Slovenia;Southern Europe;1995;1991;174419;22314
+Spain;Southern Europe;1995;39890;1020067;5852
+TFYR Macedonia;Southern Europe;1995;1983;109343;9048
+Austria;Western Europe;1995;7990;894893;42980
+Belgium;Western Europe;1995;10186;909769;31691
+France;Western Europe;1995;58242;6087993;155245
+Germany;Western Europe;1995;81241;7464406;1267900
+Liechtenstein;Western Europe;1995;31;13311;0
+Luxembourg;Western Europe;1995;408;126106;700
+Monaco;Western Europe;1995;31;21060;0
+Netherlands;Western Europe;1995;15468;1346164;79960
+Switzerland;Western Europe;1995;7019;1478829;82943
+Belarus;Eastern Europe;2000;9934;1123586;359
+Bulgaria;Eastern Europe;2000;7998;43360;1474
+Czechia;Eastern Europe;2000;10290;220789;1209
+Hungary;Eastern Europe;2000;10221;296957;5027
+Poland;Eastern Europe;2000;38550;825251;1020
+Republic of Moldova;Eastern Europe;2000;4201;247828;68
+Romania;Eastern Europe;2000;22128;126949;1685
+Russian Federation;Eastern Europe;2000;146397;11900297;26265
+Slovakia;Eastern Europe;2000;5399;116376;457
+Ukraine;Eastern Europe;2000;48840;5527087;2951
+Channel Islands;Northern Europe;2000;149;64301;0
+Denmark;Northern Europe;2000;5341;371026;70021
+Estonia;Northern Europe;2000;1399;249512;2
+Faeroe Islands;Northern Europe;2000;47;3593;0
+Finland;Northern Europe;2000;5188;136203;13073
+Iceland;Northern Europe;2000;280;15892;249
+Ireland;Northern Europe;2000;3849;350552;2689
+Isle of Man;Northern Europe;2000;73;39002;0
+Latvia;Northern Europe;2000;2384;430178;7
+Lithuania;Northern Europe;2000;3502;214311;55
+Norway;Northern Europe;2000;4499;292440;47693
+Sweden;Northern Europe;2000;8882;1003798;157220
+United Kingdom;Northern Europe;2000;58951;4730165;186248
+Albania;Southern Europe;2000;3122;76695;528
+Andorra;Southern Europe;2000;65;42146;0
+Bosnia and Herzegovina;Southern Europe;2000;3767;82952;38152
+Croatia;Southern Europe;2000;4428;585298;22437
+Gibraltar;Southern Europe;2000;31;8054;0
+Greece;Southern Europe;2000;11142;1111665;6468
+Holy See;Southern Europe;2000;1;785;0
+Italy;Southern Europe;2000;57294;2121690;6437
+Malta;Southern Europe;2000;397;21521;190
+Portugal;Southern Europe;2000;10355;651472;433
+San Marino;Southern Europe;2000;27;4045;0
+Serbia;Southern Europe;2000;9488;856763;363293
+Slovenia;Southern Europe;2000;1988;171018;2816
+Spain;Southern Europe;2000;40904;1657285;6987
+TFYR Macedonia;Southern Europe;2000;2035;125665;9050
+Austria;Western Europe;2000;8069;996547;48787
+Belgium;Western Europe;2000;10282;895900;18832
+France;Western Europe;2000;59608;6278718;131115
+Germany;Western Europe;2000;81488;8992631;906000
+Liechtenstein;Western Europe;2000;33;15483;70
+Luxembourg;Western Europe;2000;436;139750;759
+Monaco;Western Europe;2000;32;21787;0
+Netherlands;Western Europe;2000;15926;1556337;146180
+Switzerland;Western Europe;2000;7167;1570756;57653
+Belarus;Eastern Europe;2005;9622;1106982;474
+Bulgaria;Eastern Europe;2005;7684;61074;4413
+Czechia;Eastern Europe;2005;10258;322540;1829
+Hungary;Eastern Europe;2005;10086;366787;8046
+Poland;Eastern Europe;2005;38363;722509;4604
+Republic of Moldova;Eastern Europe;2005;4158;173957;84
+Romania;Eastern Europe;2005;21431;145162;2056
+Russian Federation;Eastern Europe;2005;143618;11667588;1523
+Slovakia;Eastern Europe;2005;5399;130491;368
+Ukraine;Eastern Europe;2005;46892;5050302;2346
+Channel Islands;Northern Europe;2005;154;70941;0
+Denmark;Northern Europe;2005;5422;440383;43972
+Estonia;Northern Europe;2005;1356;233701;21
+Faeroe Islands;Northern Europe;2005;48;4583;0
+Finland;Northern Europe;2005;5259;192169;10899
+Iceland;Northern Europe;2005;295;25492;166
+Ireland;Northern Europe;2005;4213;589046;7113
+Isle of Man;Northern Europe;2005;76;41475;0
+Latvia;Northern Europe;2005;2252;376725;38
+Lithuania;Northern Europe;2005;3344;201209;531
+Norway;Northern Europe;2005;4632;361144;43034
+Sweden;Northern Europe;2005;9039;1125790;74915
+United Kingdom;Northern Europe;2005;60287;5926156;303181
+Albania;Southern Europe;2005;3079;64739;91
+Andorra;Southern Europe;2005;79;50298;0
+Bosnia and Herzegovina;Southern Europe;2005;3782;47272;10768
+Croatia;Southern Europe;2005;4378;579273;2927
+Gibraltar;Southern Europe;2005;32;9211;0
+Greece;Southern Europe;2005;11301;1190707;2390
+Holy See;Southern Europe;2005;1;798;0
+Italy;Southern Europe;2005;58808;3954785;20675
+Malta;Southern Europe;2005;407;24560;1939
+Portugal;Southern Europe;2005;10566;771184;363
+San Marino;Southern Europe;2005;29;4218;0
+Serbia;Southern Europe;2005;9215;845120;138569
+Slovenia;Southern Europe;2005;1996;197276;251
+Spain;Southern Europe;2005;44043;4107226;5374
+TFYR Macedonia;Southern Europe;2005;2060;127667;1274
+Austria;Western Europe;2005;8254;1136270;45709
+Belgium;Western Europe;2005;10547;882031;15282
+France;Western Europe;2005;61234;6737600;137316
+Germany;Western Europe;2005;81671;9402447;700016
+Liechtenstein;Western Europe;2005;35;18898;150
+Luxembourg;Western Europe;2005;458;150618;1822
+Monaco;Western Europe;2005;34;21312;0
+Netherlands;Western Europe;2005;16367;1736127;118189
+Switzerland;Western Europe;2005;7410;1805437;48030
+Belarus;Eastern Europe;2010;9473;1090378;589
+Bulgaria;Eastern Europe;2010;7405;76287;5530
+Czechia;Eastern Europe;2010;10536;398493;2449
+Hungary;Eastern Europe;2010;9928;436616;5414
+Poland;Eastern Europe;2010;38323;642417;15555
+Republic of Moldova;Eastern Europe;2010;4084;157668;148
+Romania;Eastern Europe;2010;20440;166126;1021
+Russian Federation;Eastern Europe;2010;143154;11194710;4922
+Slovakia;Eastern Europe;2010;5404;146319;461
+Ukraine;Eastern Europe;2010;45793;4818767;2522
+Channel Islands;Northern Europe;2010;160;77581;0
+Denmark;Northern Europe;2010;5555;509740;17922
+Estonia;Northern Europe;2010;1332;217890;39
+Faeroe Islands;Northern Europe;2010;49;5096;0
+Finland;Northern Europe;2010;5366;248135;8724
+Iceland;Northern Europe;2010;320;35091;83
+Ireland;Northern Europe;2010;4627;730542;9107
+Isle of Man;Northern Europe;2010;80;43447;0
+Latvia;Northern Europe;2010;2119;313786;68
+Lithuania;Northern Europe;2010;3124;160772;803
+Norway;Northern Europe;2010;4886;526799;40260
+Sweden;Northern Europe;2010;9390;1337214;82629
+United Kingdom;Northern Europe;2010;63307;7604583;238150
+Albania;Southern Europe;2010;2941;52784;99
+Andorra;Southern Europe;2010;84;52053;0
+Bosnia and Herzegovina;Southern Europe;2010;3722;38792;7016
+Croatia;Southern Europe;2010;4328;573248;863
+Gibraltar;Southern Europe;2010;33;10369;0
+Greece;Southern Europe;2010;11446;1321149;1444
+Holy See;Southern Europe;2010;1;794;0
+Italy;Southern Europe;2010;59730;5787898;56397
+Malta;Southern Europe;2010;416;33008;6136
+Portugal;Southern Europe;2010;10652;762825;384
+San Marino;Southern Europe;2010;31;4399;0
+Serbia;Southern Europe;2010;9030;826066;73608
+Slovenia;Southern Europe;2010;2045;253786;312
+Spain;Southern Europe;2010;46789;6280065;3820
+TFYR Macedonia;Southern Europe;2010;2071;129701;959
+Austria;Western Europe;2010;8410;1275992;42630
+Belgium;Western Europe;2010;10939;1119256;17892
+France;Western Europe;2010;63027;7196481;200687
+Germany;Western Europe;2010;80895;9812263;594269
+Liechtenstein;Western Europe;2010;36;22342;92
+Luxembourg;Western Europe;2010;508;248888;3254
+Monaco;Western Europe;2010;37;21132;0
+Netherlands;Western Europe;2010;16683;1832510;74961
+Switzerland;Western Europe;2010;7832;2075182;48813
+Belarus;Eastern Europe;2015;9486;1082905;3897
+Bulgaria;Eastern Europe;2015;7177;133803;26056
+Czechia;Eastern Europe;2015;10604;416454;4303
+Hungary;Eastern Europe;2015;9784;475508;41087
+Poland;Eastern Europe;2015;38265;611855;17368
+Republic of Moldova;Eastern Europe;2015;4066;142904;556
+Romania;Eastern Europe;2015;19877;281048;3030
+Russian Federation;Eastern Europe;2015;143888;11643276;316595
+Slovakia;Eastern Europe;2015;5439;177624;1078
+Ukraine;Eastern Europe;2015;44658;4915142;9775
+Channel Islands;Northern Europe;2015;164;82307;0
+Denmark;Northern Europe;2015;5689;595876;42260
+Estonia;Northern Europe;2015;1315;194664;254
+Faeroe Islands;Northern Europe;2015;49;5517;0
+Finland;Northern Europe;2015;5482;314856;37069
+Iceland;Northern Europe;2015;330;39072;340
+Ireland;Northern Europe;2015;4700;749943;11212
+Isle of Man;Northern Europe;2015;83;45221;0
+Latvia;Northern Europe;2015;1993;265418;387
+Lithuania;Northern Europe;2015;2932;136021;1175
+Norway;Northern Europe;2015;5200;746375;75705
+Sweden;Northern Europe;2015;9764;1602522;326568
+United Kingdom;Northern Europe;2015;65397;8411021;157048
+Albania;Southern Europe;2015;2923;52031;934
+Andorra;Southern Europe;2015;78;42082;0
+Bosnia and Herzegovina;Southern Europe;2015;3536;38574;6798
+Croatia;Southern Europe;2015;4236;575738;14645
+Gibraltar;Southern Europe;2015;34;11065;0
+Greece;Southern Europe;2015;11218;1242924;50979
+Holy See;Southern Europe;2015;1;803;0
+Italy;Southern Europe;2015;59504;5805325;177193
+Malta;Southern Europe;2015;428;42430;7665
+Portugal;Southern Europe;2015;10418;864814;1435
+San Marino;Southern Europe;2015;33;5174;0
+Serbia;Southern Europe;2015;8851;807441;35448
+Slovenia;Southern Europe;2015;2075;237616;395
+Spain;Southern Europe;2015;46398;5891208;17477
+TFYR Macedonia;Southern Europe;2015;2079;130730;718
+Austria;Western Europe;2015;8679;1492374;78947
+Belgium;Western Europe;2015;11288;1252380;66740
+France;Western Europe;2015;64457;7918382;336183
+Germany;Western Europe;2015;81708;10220418;736740
+Liechtenstein;Western Europe;2015;37;23799;247
+Luxembourg;Western Europe;2015;567;260573;3727
+Monaco;Western Europe;2015;38;21042;32
+Netherlands;Western Europe;2015;16938;1996318;116587
+Switzerland;Western Europe;2015;8320;2416394;106037
+Belarus;Eastern Europe;2017;9468;1078652;4408
+Bulgaria;Eastern Europe;2017;7085;153803;33655
+Czechia;Eastern Europe;2017;10618;433290;4529
+Hungary;Eastern Europe;2017;9722;503787;14314
+Poland;Eastern Europe;2017;38171;640937;12912
+Republic of Moldova;Eastern Europe;2017;4051;140045;557
+Romania;Eastern Europe;2017;19679;370753;2917
+Russian Federation;Eastern Europe;2017;143990;11651509;316595
+Slovakia;Eastern Europe;2017;5448;184642;1129
+Ukraine;Eastern Europe;2017;44223;4964293;9665
+Channel Islands;Northern Europe;2017;165;83082;0
+Denmark;Northern Europe;2017;5734;656789;41640
+Estonia;Northern Europe;2017;1310;192962;285
+Faeroe Islands;Northern Europe;2017;49;5735;0
+Finland;Northern Europe;2017;5523;343582;30133
+Iceland;Northern Europe;2017;335;41853;357
+Ireland;Northern Europe;2017;4762;806549;10392
+Isle of Man;Northern Europe;2017;84;45872;0
+Latvia;Northern Europe;2017;1950;256889;396
+Lithuania;Northern Europe;2017;2890;124706;1197
+Norway;Northern Europe;2017;5305;798944;70674
+Sweden;Northern Europe;2017;9911;1747710;317477
+United Kingdom;Northern Europe;2017;66182;8841717;151621
+Albania;Southern Europe;2017;2930;52484;1387
+Andorra;Southern Europe;2017;77;41039;0
+Bosnia and Herzegovina;Southern Europe;2017;3507;37100;5324
+Croatia;Southern Europe;2017;4189;560483;12554
+Gibraltar;Southern Europe;2017;35;11152;0
+Greece;Southern Europe;2017;11160;1220395;94630
+Holy See;Southern Europe;2017;1;792;0
+Italy;Southern Europe;2017;59360;5907461;216027
+Malta;Southern Europe;2017;431;45539;8126
+Portugal;Southern Europe;2017;10330;880188;1806
+San Marino;Southern Europe;2017;33;5243;0
+Serbia;Southern Europe;2017;8791;801903;31314
+Slovenia;Southern Europe;2017;2080;244790;607
+Spain;Southern Europe;2017;46354;5947106;28205
+TFYR Macedonia;Southern Europe;2017;2083;130972;771
+Austria;Western Europe;2017;8735;1660283;165446
+Belgium;Western Europe;2017;11429;1268411;61780
+France;Western Europe;2017;64980;7902783;354880
+Germany;Western Europe;2017;82114;12165083;1256828
+Liechtenstein;Western Europe;2017;38;24683;254
+Luxembourg;Western Europe;2017;583;264073;4066
+Monaco;Western Europe;2017;39;21255;32
+Netherlands;Western Europe;2017;17036;2056520;114303
+Switzerland;Western Europe;2017;8476;2506394;110044
