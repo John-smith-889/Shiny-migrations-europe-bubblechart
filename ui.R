@@ -28,7 +28,7 @@ shinyUI(fluidPage(
              "body {font-family: 'Source Sans Pro'}"
   ),
   
-  h2("Migrations in Europe: 1990-2017"),
+  h2("Migrations in Europe: 1990-2017. Source: http://www.un.org"),
   
   googleBubbleChart("chart",
                     width="100%", height = "475px",
