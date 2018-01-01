@@ -1,8 +1,8 @@
 # Shiny-migrations-europe-bubblechart
 
-Running application in R/RStudio. Install particular packages: "shiny" and "magritts" if needed. <br />
-Copy and run this code in R or RStudio:
-
+Running application in R/RStudio:
+1) Install particular packages: "shiny" and "magritts" if needed. <br />
+2) Copy and run this code in R or RStudio: <br />
 
 if (!require(devtools)) <br />
   install.packages("devtools")
