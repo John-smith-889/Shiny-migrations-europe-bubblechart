@@ -11,3 +11,6 @@ library(shiny) <br />
 library(magrittr) <br />
 library(googleCharts) <br />
 runGitHub( "Shiny-migrations-europe-bubblechart", "James-Smith-889") <br />
+
+Application is deployed under link:
+https://james-smith-889.shinyapps.io/shiny-migrations-europe-bubblechart/
