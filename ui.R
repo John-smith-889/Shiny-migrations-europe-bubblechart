@@ -17,7 +17,14 @@ ylim <- list(
 
 shinyUI(fluidPage(
   # This line loads the Google Charts JS library
-  googleChartsInit(),
+  
+  #googleChartsInit(),
+  HTML('
+  <script src="https://www.gstatic.com/charts/loader.js"></script>
+  <script>
+  google.charts.load(\'current\', {packages: [\'corechart\']});
+  google.charts.setOnLoadCallback(drawChart);
+  </script><script src="googleCharts/bindings.js"></script>'),
   
   # Use the Google webfont "Source Sans Pro"
   tags$link(
