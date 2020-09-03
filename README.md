@@ -1,6 +1,6 @@
 # Shiny-migrations-europe-bubblechart
 
-Application is deployed under link: <br />
+Application is deployed under link: (Edit: plot not rendering since June 2020 due to [this](https://github.com/jcheng5/googleCharts/issues/12) dependencies issue) <br />
 https://james-smith-889.shinyapps.io/shiny-migrations-europe-bubblechart/
 
 
